@@ -15,7 +15,7 @@ header {
 
 header img {
   height: 50px;
-  max-width: 80px;
+  max-width: auto;
   object-fit: contain;
 }
 
